@@ -1,0 +1,14 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+knitr
+readr
+dplyr
+tidyr
+stringr
+ggplot2
+gridExtra

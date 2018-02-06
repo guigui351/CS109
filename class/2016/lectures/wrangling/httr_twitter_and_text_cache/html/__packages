@@ -1,0 +1,10 @@
+base
+ggplot2
+httr
+jsonlite
+dplyr
+tidyr
+stackr
+twitteR
+janeaustenr
+tidytext
